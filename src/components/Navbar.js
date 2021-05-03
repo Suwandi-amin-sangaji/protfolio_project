@@ -1,6 +1,6 @@
 import React from "react";
 // import logo
-import logo from "../navbar.png";
+import logo from "../w.ico";
 // REACT FONTAWESOME IMPORT
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars} from "@fortawesome/free-solid-svg-icons";
